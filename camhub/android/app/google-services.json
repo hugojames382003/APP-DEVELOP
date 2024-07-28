@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "741674463150",
+    "project_id": "camhub-ac24b",
+    "storage_bucket": "camhub-ac24b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741674463150:android:c7ad7b0f35bf4873d4e23f",
+        "android_client_info": {
+          "package_name": "com.example.camhub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsFZUYwmHQF9MBPBQcKg-a2RLnI1puoas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
